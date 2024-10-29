@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>3D Graph Navigation</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
+    <style>
+      /* Full-screen WebGL output container */
+      #webgl-output {
+        width: 100vw;
+        height: 100vh;
+        overflow: hidden;
+        position: absolute;
+        top: 0;
+        left: 0;
+        background-color: #20252f;
+      }
+
+      /* Button styling */
+      .control-btn {
+        position: absolute;
+        width: 15vw;
+        height: 15vw;
+        max-width: 60px;
+        max-height: 60px;
+        border-radius: 10px;
+        background-color: rgba(100, 100, 100, 0.7);
+        border: none;
+        color: white;
+        font-size: 1.5em;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        cursor: pointer;
+        z-index: 10;
+      }
+
+      /* Position for rotation buttons (left side) */
+      .rotate-btn {
+        bottom: 100px;
+        left: 20px;
+      }
+      .rotate-up {
+        bottom: 170px;
+        left: 75px;
+      }
+      .rotate-down {
+        bottom: 30px;
+        left: 75px;
+      }
+      .rotate-left {
+        bottom: 100px;
+        left: 20px;
+      }
+      .rotate-right {
+        bottom: 100px;
+        left: 130px;
+      }
+
+      /* Position for forward/backward buttons (right side) */
+      .move-btn {
+        bottom: 100px;
+        right: 20px;
+      }
+      .move-forward {
+        bottom: 170px;
+        right: 75px;
+      }
+      .move-backward {
+        bottom: 30px;
+        right: 75px;
+      }
+    </style>
+  </head>
+  <body>
+    <!-- WebGL output container -->
+    <div id="webgl-output"></div>
+
+    <!-- Camera control buttons (rotation on left) -->
+    <button class="control-btn rotate-btn rotate-up">↑</button>
+    <button class="control-btn rotate-btn rotate-down">↓</button>
+    <button class="control-btn rotate-btn rotate-left">←</button>
+    <button class="control-btn rotate-btn rotate-right">→</button>
+
+    <!-- Movement control buttons (forward/backward on right) -->
+    <button class="control-btn move-btn move-forward">↑</button>
+    <button class="control-btn move-btn move-backward">↓</button>
+
+    <script src="main.js"></script>
+  </body>
+</html>
