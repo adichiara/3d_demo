@@ -1,0 +1,681 @@
+{
+    "nodes": [
+        {
+            "id": "Abby"
+        },
+        {
+            "id": "Alexa"
+        },
+        {
+            "id": "Anthony"
+        },
+        {
+            "id": "Chloe"
+        },
+        {
+            "id": "Airen"
+        },
+        {
+            "id": "Arjun"
+        },
+        {
+            "id": "Celina"
+        },
+        {
+            "id": "Ellie"
+        },
+        {
+            "id": "Julia"
+        },
+        {
+            "id": "Leah"
+        },
+        {
+            "id": "Mabella"
+        },
+        {
+            "id": "Oren"
+        },
+        {
+            "id": "Alara"
+        },
+        {
+            "id": "Alex"
+        },
+        {
+            "id": "Anna H. "
+        },
+        {
+            "id": "Brendon"
+        },
+        {
+            "id": "Caden"
+        },
+        {
+            "id": "Clare"
+        },
+        {
+            "id": "Margaret"
+        },
+        {
+            "id": "Mia"
+        },
+        {
+            "id": "Anna P."
+        },
+        {
+            "id": "Jeremiah"
+        },
+        {
+            "id": "Jeremy"
+        },
+        {
+            "id": "Lily"
+        },
+        {
+            "id": "Addi"
+        },
+        {
+            "id": "Lexi"
+        },
+        {
+            "id": "Will"
+        },
+        {
+            "id": "Maeva"
+        },
+        {
+            "id": "Shriya"
+        },
+        {
+            "id": "Summer"
+        },
+        {
+            "id": "Peyton"
+        },
+        {
+            "id": "Nick"
+        },
+        {
+            "id": "Matthew"
+        },
+        {
+            "id": "Dennis"
+        },
+        {
+            "id": "Victoria"
+        },
+        {
+            "id": "Sophie"
+        },
+        {
+            "id": "Jonathan"
+        }
+    ],
+    "links": [
+        {
+            "source": "Abby",
+            "target": "Alexa",
+            "strength": 8,
+            "type": "friends"
+        },
+        {
+            "source": "Abby",
+            "target": "Anna H. ",
+            "strength": 8,
+            "type": "friends"
+        },
+        {
+            "source": "Alexa",
+            "target": "Anna H. ",
+            "strength": 8,
+            "type": "friends"
+        },
+        {
+            "source": "Anthony",
+            "target": "Will",
+            "strength": 8,
+            "type": "friends"
+        },
+        {
+            "source": "Chloe",
+            "target": "Maeva",
+            "strength": 8,
+            "type": "friends"
+        },
+        {
+            "source": "Abby",
+            "target": "Airen",
+            "strength": 7,
+            "type": "friends"
+        },
+        {
+            "source": "Abby",
+            "target": "Chloe",
+            "strength": 7,
+            "type": "friends"
+        },
+        {
+            "source": "Abby",
+            "target": "Mabella",
+            "strength": 7,
+            "type": "friends"
+        },
+        {
+            "source": "Abby",
+            "target": "Margaret",
+            "strength": 7,
+            "type": "friends"
+        },
+        {
+            "source": "Airen",
+            "target": "Alexa",
+            "strength": 7,
+            "type": "friends"
+        },
+        {
+            "source": "Airen",
+            "target": "Chloe",
+            "strength": 7,
+            "type": "friends"
+        },
+        {
+            "source": "Airen",
+            "target": "Mabella",
+            "strength": 7,
+            "type": "friends"
+        },
+        {
+            "source": "Airen",
+            "target": "Margaret",
+            "strength": 7,
+            "type": "friends"
+        },
+        {
+            "source": "Arjun",
+            "target": "Brendon",
+            "strength": 7,
+            "type": "friends"
+        },
+        {
+            "source": "Celina",
+            "target": "Shriya",
+            "strength": 7,
+            "type": "friends"
+        },
+        {
+            "source": "Ellie",
+            "target": "Mabella",
+            "strength": 7,
+            "type": "friends"
+        },
+        {
+            "source": "Ellie",
+            "target": "Margaret",
+            "strength": 7,
+            "type": "friends"
+        },
+        {
+            "source": "Julia",
+            "target": "Mia",
+            "strength": 7,
+            "type": "friends"
+        },
+        {
+            "source": "Leah",
+            "target": "Summer",
+            "strength": 7,
+            "type": "friends"
+        },
+        {
+            "source": "Mabella",
+            "target": "Margaret",
+            "strength": 7,
+            "type": "friends"
+        },
+        {
+            "source": "Oren",
+            "target": "Will",
+            "strength": 7,
+            "type": "friends"
+        },
+        {
+            "source": "Airen",
+            "target": "Peyton",
+            "strength": 6,
+            "type": "friends"
+        },
+        {
+            "source": "Alara",
+            "target": "Jeremy",
+            "strength": 6,
+            "type": "friends"
+        },
+        {
+            "source": "Alara",
+            "target": "Nick",
+            "strength": 6,
+            "type": "aquaintances"
+        },
+        {
+            "source": "Alex",
+            "target": "Anthony",
+            "strength": 6,
+            "type": "friends"
+        },
+        {
+            "source": "Alex",
+            "target": "Caden",
+            "strength": 6,
+            "type": "friends"
+        },
+        {
+            "source": "Alex",
+            "target": "Matthew",
+            "strength": 6,
+            "type": "friends"
+        },
+        {
+            "source": "Alexa",
+            "target": "Chloe",
+            "strength": 6,
+            "type": "friends"
+        },
+        {
+            "source": "Alexa",
+            "target": "Clare",
+            "strength": 6,
+            "type": "friends"
+        },
+        {
+            "source": "Alexa",
+            "target": "Margaret",
+            "strength": 6,
+            "type": "friends"
+        },
+        {
+            "source": "Anna H. ",
+            "target": "Chloe",
+            "strength": 6,
+            "type": "friends"
+        },
+        {
+            "source": "Anna H. ",
+            "target": "Lexi",
+            "strength": 6,
+            "type": "friends"
+        },
+        {
+            "source": "Anthony",
+            "target": "Caden",
+            "strength": 6,
+            "type": "friends"
+        },
+        {
+            "source": "Anthony",
+            "target": "Oren",
+            "strength": 6,
+            "type": "friends"
+        },
+        {
+            "source": "Brendon",
+            "target": "Dennis",
+            "strength": 6,
+            "type": "friends"
+        },
+        {
+            "source": "Caden",
+            "target": "Matthew",
+            "strength": 6,
+            "type": "friends"
+        },
+        {
+            "source": "Celina",
+            "target": "Julia",
+            "strength": 6,
+            "type": "friends"
+        },
+        {
+            "source": "Celina",
+            "target": "Mia",
+            "strength": 6,
+            "type": "friends"
+        },
+        {
+            "source": "Chloe",
+            "target": "Mabella",
+            "strength": 6,
+            "type": "friends"
+        },
+        {
+            "source": "Chloe",
+            "target": "Margaret",
+            "strength": 6,
+            "type": "friends"
+        },
+        {
+            "source": "Chloe",
+            "target": "Peyton",
+            "strength": 6,
+            "type": "friends"
+        },
+        {
+            "source": "Clare",
+            "target": "Margaret",
+            "strength": 6,
+            "type": "friends"
+        },
+        {
+            "source": "Clare",
+            "target": "Summer",
+            "strength": 6,
+            "type": "friends"
+        },
+        {
+            "source": "Ellie",
+            "target": "Victoria",
+            "strength": 6,
+            "type": "friends"
+        },
+        {
+            "source": "Julia",
+            "target": "Shriya",
+            "strength": 6,
+            "type": "friends"
+        },
+        {
+            "source": "Leah",
+            "target": "Lily",
+            "strength": 6,
+            "type": "friends"
+        },
+        {
+            "source": "Margaret",
+            "target": "Peyton",
+            "strength": 6,
+            "type": "friends"
+        },
+        {
+            "source": "Mia",
+            "target": "Shriya",
+            "strength": 6,
+            "type": "friends"
+        },
+        {
+            "source": "Abby",
+            "target": "Peyton",
+            "strength": 5,
+            "type": "friends"
+        },
+        {
+            "source": "Airen",
+            "target": "Anthony",
+            "strength": 5,
+            "type": "friends"
+        },
+        {
+            "source": "Airen",
+            "target": "Will",
+            "strength": 5,
+            "type": "friends"
+        },
+        {
+            "source": "Alara",
+            "target": "Anna H. ",
+            "strength": 5,
+            "type": "friends"
+        },
+        {
+            "source": "Alara",
+            "target": "Anna P.",
+            "strength": 5,
+            "type": "friends"
+        },
+        {
+            "source": "Alex",
+            "target": "Brendon",
+            "strength": 5,
+            "type": "friends"
+        },
+        {
+            "source": "Alex",
+            "target": "Jeremiah",
+            "strength": 5,
+            "type": "friends"
+        },
+        {
+            "source": "Alex",
+            "target": "Jeremy",
+            "strength": 5,
+            "type": "friends"
+        },
+        {
+            "source": "Alexa",
+            "target": "Mabella",
+            "strength": 5,
+            "type": "friends"
+        },
+        {
+            "source": "Alexa",
+            "target": "Peyton",
+            "strength": 5,
+            "type": "friends"
+        },
+        {
+            "source": "Alexa",
+            "target": "Summer",
+            "strength": 5,
+            "type": "friends"
+        },
+        {
+            "source": "Anna H. ",
+            "target": "Margaret",
+            "strength": 5,
+            "type": "friends"
+        },
+        {
+            "source": "Anna H. ",
+            "target": "Peyton",
+            "strength": 5,
+            "type": "friends"
+        },
+        {
+            "source": "Anna P.",
+            "target": "Chloe",
+            "strength": 5,
+            "type": "friends"
+        },
+        {
+            "source": "Anthony",
+            "target": "Arjun",
+            "strength": 5,
+            "type": "friends"
+        },
+        {
+            "source": "Anthony",
+            "target": "Clare",
+            "strength": 5,
+            "type": "friends"
+        },
+        {
+            "source": "Anthony",
+            "target": "Jeremiah",
+            "strength": 5,
+            "type": "friends"
+        },
+        {
+            "source": "Anthony",
+            "target": "Matthew",
+            "strength": 5,
+            "type": "friends"
+        },
+        {
+            "source": "Arjun",
+            "target": "Jeremiah",
+            "strength": 5,
+            "type": "friends"
+        },
+        {
+            "source": "Arjun",
+            "target": "Oren",
+            "strength": 5,
+            "type": "friends"
+        },
+        {
+            "source": "Arjun",
+            "target": "Will",
+            "strength": 5,
+            "type": "friends"
+        },
+        {
+            "source": "Caden",
+            "target": "Jeremiah",
+            "strength": 5,
+            "type": "friends"
+        },
+        {
+            "source": "Clare",
+            "target": "Leah",
+            "strength": 5,
+            "type": "friends"
+        },
+        {
+            "source": "Clare",
+            "target": "Lily",
+            "strength": 5,
+            "type": "friends"
+        },
+        {
+            "source": "Jeremiah",
+            "target": "Matthew",
+            "strength": 5,
+            "type": "friends"
+        },
+        {
+            "source": "Jeremiah",
+            "target": "Will",
+            "strength": 5,
+            "type": "friends"
+        },
+        {
+            "source": "Jeremy",
+            "target": "Nick",
+            "strength": 5,
+            "type": "friends"
+        },
+        {
+            "source": "Lily",
+            "target": "Summer",
+            "strength": 5,
+            "type": "friends"
+        },
+        {
+            "source": "Mabella",
+            "target": "Peyton",
+            "strength": 5,
+            "type": "friends"
+        },
+        {
+            "source": "Margaret",
+            "target": "Summer",
+            "strength": 5,
+            "type": "friends"
+        },
+        {
+            "source": "Addi",
+            "target": "Lexi",
+            "strength": 4,
+            "type": "friends"
+        },
+        {
+            "source": "Alexa",
+            "target": "Leah",
+            "strength": 4,
+            "type": "friends"
+        },
+        {
+            "source": "Mabella",
+            "target": "Victoria",
+            "strength": 4,
+            "type": "friends"
+        },
+        {
+            "source": "Margaret",
+            "target": "Victoria",
+            "strength": 4,
+            "type": "friends"
+        },
+        {
+            "source": "Airen",
+            "target": "Celina",
+            "strength": 3,
+            "type": "aquaintances"
+        },
+        {
+            "source": "Airen",
+            "target": "Julia",
+            "strength": 3,
+            "type": "aquaintances"
+        },
+        {
+            "source": "Airen",
+            "target": "Mia",
+            "strength": 3,
+            "type": "aquaintances"
+        },
+        {
+            "source": "Addi",
+            "target": "Airen",
+            "strength": 2,
+            "type": "aquaintances"
+        },
+        {
+            "source": "Airen",
+            "target": "Clare",
+            "strength": 2,
+            "type": "aquaintances"
+        },
+        {
+            "source": "Airen",
+            "target": "Sophie",
+            "strength": 2,
+            "type": "aquaintances"
+        },
+        {
+            "source": "Anthony",
+            "target": "Jonathan",
+            "strength": 2,
+            "type": "aquaintances"
+        },
+        {
+            "source": "Anthony",
+            "target": "Nick",
+            "strength": 2,
+            "type": "aquaintances"
+        },
+        {
+            "source": "Arjun",
+            "target": "Dennis",
+            "strength": 2,
+            "type": "aquaintances"
+        },
+        {
+            "source": "Lexi",
+            "target": "Sophie",
+            "strength": 2,
+            "type": "aquaintances"
+        },
+        {
+            "source": "Airen",
+            "target": "Shriya",
+            "strength": 1,
+            "type": "aquaintances"
+        },
+        {
+            "source": "Alara",
+            "target": "Lexi",
+            "strength": 1,
+            "type": "aquaintances"
+        }
+    ]
+}
